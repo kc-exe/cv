@@ -62,21 +62,17 @@ p{
   margin: auto;
   width: 30%;
 }
-contact
+.contact
 {
   margin: auto;
   width: 30%;
+  
 }
 .middle
 {
   margin: 100px 0;
 }
-.contact{
-  font-family: 'Montserrat', sans-serif;
-  width: 50%;
-  margin: 100px auto 100px auto;
-  color: black;
-}
+
 .skill-row
 {
 text-align: left;
